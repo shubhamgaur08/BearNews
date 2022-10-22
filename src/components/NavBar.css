@@ -1,0 +1,45 @@
+.navbar{
+    background-color:#b80000;
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    
+    
+}
+.navbar-brand:hover{
+    color:black
+    
+
+}
+.nav-item{
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    font-size: large;
+    padding-left: 35px;
+    padding-right: 20px;
+
+}
+.nav-link{
+    color: white;
+}
+.nav-item:hover{
+    color: ghostwhite;
+}
+.navbar-brand{
+    color: white;
+    margin: 5px;
+    font-size:4vh;
+
+}
+.navbar-toggler{
+    color:white
+}
+
+    
+
+    .Navbar{
+        border: 5px;
+    border-color: black;
+    }
+    
