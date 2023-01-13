@@ -1,3 +1,5 @@
+![alt text](https://github.com/shubhamgaur08/BearNews/blob/master/bearnews%20Screenshot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
